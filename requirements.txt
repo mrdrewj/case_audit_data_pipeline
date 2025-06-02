@@ -1,0 +1,6 @@
+pandas
+psycopg2
+openpyxl
+xlsxwriter
+requests
+python-dotenv
